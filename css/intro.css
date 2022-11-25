@@ -1,0 +1,24 @@
+.intro {
+  color: #3d372e;
+  padding: 60px;
+  margin: 6rem 0 4rem;
+  min-height: 25rem;
+}
+
+.intro-logo {
+  width: 120px;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+.intro .text-lead {
+  color: #d3d3d3;
+  max-width: 70%;
+  margin: 0 15%;
+}
+
+.intro .title-large {
+  font-size: 5rem;
+  color: #f3f3f3;
+  text-shadow: 4px 4px 4px black;
+}

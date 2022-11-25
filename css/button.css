@@ -1,0 +1,25 @@
+.button {
+  display: inline-block;
+  border-radius: 2rem;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 15px 30px;
+  text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.15);
+  font-weight: bold;
+  margin: 1rem 0 1rem;
+  width: 50%;
+}
+
+.button-brown {
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.button-brown:hover,
+.button-brown:focus {
+  background: #e5dbcb;
+  transition: all ease .3s;
+  color: #FFFFFF;
+}
+
+.
