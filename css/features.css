@@ -5,11 +5,11 @@
 }
 
 .features-item {
-  margin-top: 1.5rem;
+  margin: 1.5rem;
   padding: 10px;
 }
 
 .features-item img{
-max-width:25%;
+max-width:30%;
 height:auto;
 }
