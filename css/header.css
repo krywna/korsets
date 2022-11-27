@@ -53,7 +53,17 @@
 
 }
 
-@media (max-width: 360px) {
+@media (max-width: 640px) {
+  .header-logo {
+  width: 5%;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-logo {
+  width: 10%;
+  }
+
   .header-nav-item {
     display: block;
   }
